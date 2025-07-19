@@ -7,6 +7,6 @@
   "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
   "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
   "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "Direct Function": false
 }
