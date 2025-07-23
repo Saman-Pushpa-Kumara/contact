@@ -16,7 +16,7 @@
       "device_id": "d46ecbf8c336511d",
       "username": "saman",
       "password": "8888",
-      "expire_date": "2025-11-15"
+      "expire_date": "2025-6-15"
     }
   ]
 } 
