@@ -4,7 +4,7 @@
   "description": "Please enter your username and password to continue.",
   "button": "LOGIN NOW",
   "toast": "✅ Login successful!",
-  "renewUrl": "https://t.me/publicgroup5s",
+  "renewUrl": "https://www.fb.com/saman2200",
   "devices": [
     {
       "device_id": "d46ecbf8c3365", 
@@ -15,8 +15,8 @@
     {
       "device_id": "d46ecbf8c336511d",
       "username": "saman",
-      "password": "8888",
-      "expire_date": "2025-6-15"
+      "password": "888",
+      "expire_date": "2025-8-15"
     }
   ]
 } 
