@@ -7,8 +7,8 @@
   "renewUrl": "https://t.me/publicgroup5s",
   "devices": [
     {
-      "device_id": "abcd1234efgh5678", 
-      "username": "Sajib",
+      "device_id": "d46ecbf8c336511d", 
+      "username": "saman",
       "password": "1234",
       "expire_date": "2025-12-31"
     },
