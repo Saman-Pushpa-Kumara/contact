@@ -4,7 +4,7 @@
   "d1": "Welcome!",
   "d2": "Please verify to proceed.",
   "d3": "Secure Access Only",
-  "password": "12345",
+  "password": "123456",
   "highlight": "🔥 Limited Time Access 🔥",
   "btn_login": "Login",
   "btn_personal": "Personal",
