@@ -1,12 +1,13 @@
-{
-  "Title": "New Update Available",
-  "versionCode": "1",
-  "versionName": "1.0",
-  "updateSize": "36 MB",
-  "releaseDate": "July 15, 2025",
-  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": false,
-  "Direct Function": false
+         {
+  "enable": true,
+  "title": "Login Access",
+  "d1": "Welcome!",
+  "d2": "Please verify to proceed.",
+  "d3": "Secure Access Only",
+  "password": "1234",
+  "highlight": "🔥 Limited Time Access 🔥",
+  "btn_login": "Login",
+  "btn_personal": "Personal",
+  "edit_hint": "Enter password",
+  "personal_link": "https://t.me/sakib01994"
 }
