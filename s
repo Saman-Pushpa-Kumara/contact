@@ -14,8 +14,8 @@
     },
     {
       "device_id": "d46ecbf8c336511d",
-      "username": "spk",
-      "password": "4321",
+      "username": "saman",
+      "password": "8888",
       "expire_date": "2025-11-15"
     }
   ]
