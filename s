@@ -1,14 +1,14 @@
           {
   "showDialog": true,
-  "title": "🔐 VIP Login Required",
+  "title": "VIP Login Required ✨",
   "description": "Please enter your username and password to continue.",
   "button": "LOGIN NOW",
   "toast": "✅ Login successful!",
   "renewUrl": "https://t.me/publicgroup5s",
   "devices": [
     {
-      "device_id": "abcd1234efgh5678", 
-      "username": "Sajib",
+      "device_id": "d46ecbf8c336511d", 
+      "username": "Saman",
       "password": "1234",
       "expire_date": "2025-12-31"
     },
