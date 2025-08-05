@@ -1,13 +1,17 @@
-         {
-  "enable": true,
-  "title": "Login Access",
-  "d1": "Welcome!",
-  "d2": "Please verify to proceed.",
-  "d3": "Secure Access Only",
-  "password": "1234",
-  "highlight": "✨ Limited Time Access ✨",
-  "btn_login": "Login",
-  "btn_personal": "saman",
-  "edit_hint": "Enter password",
-  "personal_link": "https://t.me/sakib01994"
+{
+  "enabled": true,
+  "title": "Subscription Required",
+  "desc1": "1. Premium features will be unlocked.",
+  "desc2": "2. Early access to new updates.",
+  "desc3": "3. Priority customer support.",
+  "cancel_text": "Cancel",
+  "subscribe_text": "Subscribe",
+  "subscribe_url": "https://youtube.com/@sb_sakib88888?si=ICgvs6Jish7JNMLU",
+  "bg_color": "#FFFFFF",
+  "title_color": "#000000",
+  "desc_color": "#333333",
+  "button1_color": "#888888",
+  "button2_color": "#4CAF50",
+  "show_cancel_button": false,
+  "show_subscribe_button": true
 }
