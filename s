@@ -1,7 +1,7 @@
 {
   "dialog_enable": true,
   "online_enable": true,
-  "title": "Premium Access",
+  "title": "Premium Access ✨",
   "descriptions": [
     "Welcome to Premium Version",
     "Your device is protected",
@@ -14,7 +14,7 @@
   "device_section": [
     {
       "device_id": "d46ecbf8c336511d",
-      "password": "1234",
+      "password": "12345",
       "expire_date": "2025-8-4"
     },
     {
