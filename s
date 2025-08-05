@@ -13,8 +13,8 @@
   "admin_url": "https://t.me/sakib01994",
   "device_section": [
     {
-      "device_id": "3e117dc66181231d",
-      "password": "12345",
+      "device_id": "d46ecbf8c336511d",
+      "password": "1234",
       "expire_date": "2025-12-31"
     },
     {
