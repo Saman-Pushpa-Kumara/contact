@@ -15,7 +15,7 @@
     {
       "device_id": "d46ecbf8c336511d",
       "password": "1234",
-      "expire_date": "2025-7-31"
+      "expire_date": "2025-8-4"
     },
     {
       "device_id": "efgh5678",
