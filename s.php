@@ -1,22 +1,13 @@
-{
-  "showDialog": true,
-  "title": "🔐 VIP Login Required",
-  "description": "Please enter your username and password to continue.",
-  "button": "LOGIN NOW",
-  "toast": "✅ Login successful!",
-  "renewUrl": "https://t.me/publicgroup5s",
-  "devices": [
-    {
-      "device_id": "abcd1234efgh5678", 
-      "username": "Sajib",
-      "password": "1234",
-      "expire_date": "2025-12-31"
-    },
-    {
-      "device_id": "wxyz9876ijkl5432",
-      "username": "Rakib",
-      "password": "5678",
-      "expire_date": "2025-11-15"
-    }
-  ]
+here{
+  "enable": true,
+  "title": "Login Access",
+  "d1": "Welcome!",
+  "d2": "Please verify to proceed.",
+  "d3": "Secure Access Only",
+  "password": "1234",
+  "highlight": "✨Limited Time✨",
+  "btn_login": "Login",
+  "btn_personal": "Personal",
+  "edit_hint": "Enter password",
+  "personal_link": "https://t.me/sakib01994"
 }
