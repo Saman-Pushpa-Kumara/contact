@@ -1,18 +1,22 @@
-<?php
-$name = $_POST['name'];
-$email = $_POST['email'];
-$phone = $_POST['phone'];
-$message = $_POST['message'];
-
-$to = 'spk2200@gmail.com';
-$subject = 'Contact Form Submission';
-$body = "Name: $name\nEmail: $email\nPhone: $phone\nMessage: $message";
-
-$headers = 'From: ' . $email . "\r\n" .
-'Reply-To: ' . $email . "\r\n" .
-'X-Mailer: PHP/' . phpversion();
-
-mail($to, $subject, $body, $headers);
-
-echo 'Thank you for contacting us! We will respond to your message shortly.';
-?>
+{
+  "showDialog": true,
+  "title": "🔐 VIP Login Required",
+  "description": "Please enter your username and password to continue.",
+  "button": "LOGIN NOW",
+  "toast": "✅ Login successful!",
+  "renewUrl": "https://t.me/publicgroup5s",
+  "devices": [
+    {
+      "device_id": "abcd1234efgh5678", 
+      "username": "Sajib",
+      "password": "1234",
+      "expire_date": "2025-12-31"
+    },
+    {
+      "device_id": "wxyz9876ijkl5432",
+      "username": "Rakib",
+      "password": "5678",
+      "expire_date": "2025-11-15"
+    }
+  ]
+}
