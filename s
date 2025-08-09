@@ -9,13 +9,13 @@ showDialog": true,
       "device_id": "abcd1234efgh5678", 
       "username": "saman",
       "password": "12345",
-      "expire_date": "2025-12-31"
+      "expire_date": "2025-5-31"
     },
     {
       "device_id": "wxyz9876ijkl5432",
       "username": "Rakib",
       "password": "5678",
-      "expire_date": "2025-11-15"
+      "expire_date": "2025-6-15"
     }
   ]
 }
