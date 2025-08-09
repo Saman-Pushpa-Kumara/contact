@@ -1,18 +1,21 @@
-{
-  "dialog_enable": true,
-  "online_enable": true,
-  
-  "update_title": "New Update Available!",
-  
-  "desc1": "✨ Exciting new features added",
-  "desc2": "🐞 Important bug fixes included",
-  "desc3": "🚀 Performance improvements for smoother experience",
-
-  "cancel_button_visible": false,
-  "download_button_visible": true,
-
-  "cancel_button_text": "Later",
-  "download_button_text": "Update Now",
-
-  "download_url": "https://t.me/sakib01994"
+showDialog": true,
+  "title": "🔐 VIP Login Required",
+  "description": "✨Please enter your username and password to continue.✨",
+  "button": "LOGIN NOW",
+  "toast": "✅ Login successful!",
+  "renewUrl": "https://t.me/publicgroup5s",
+  "devices": [
+    {
+      "device_id": "abcd1234efgh5678", 
+      "username": "saman",
+      "password": "12345",
+      "expire_date": "2025-12-31"
+    },
+    {
+      "device_id": "wxyz9876ijkl5432",
+      "username": "Rakib",
+      "password": "5678",
+      "expire_date": "2025-11-15"
+    }
+  ]
 }
