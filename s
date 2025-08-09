@@ -1,12 +1,17 @@
 {
-  "Title": "New Update Available",
-  "versionCode": "11",
-  "versionName": "1.0.5",
-  "updateSize": "36 MB",
-  "releaseDate": "July 15, 2025",
-  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": true,
-  "Direct Function": true
+  "enabled": true,
+  "title": "Subscription Required",
+  "desc1": "1. Premium features will be unlocked.",
+  "desc2": "2. Early access to new updates.",
+  "desc3": "3. Priority customer support.",
+  "cancel_text": "Cancel",
+  "subscribe_text": "Subscribe",
+  "subscribe_url": "https://youtube.com/@sb_sakib88888?si=ICgvs6Jish7JNMLU",
+  "bg_color": "#FFFFFF",
+  "title_color": "#000000",
+  "desc_color": "#333333",
+  "button1_color": "#888888",
+  "button2_color": "#4CAF50",
+  "show_cancel_button": false,
+  "show_subscribe_button": true
 }
