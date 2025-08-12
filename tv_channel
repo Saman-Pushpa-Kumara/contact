@@ -56,20 +56,28 @@
       {
         "name": "Shakthi TV",
         "link": "https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8"
+      },
+      {
+        "name": "Jaya TV",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/playlist.m3u8"
       }
     ],
     "Entertainment": [
       {
         "name": "Music Plus TV",
-        "link": "https://moblive.yuppcdn.net/trans1sd/smil:muptv14.smil/chunklist_b596000.m3u8?dvr"
+        "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8"
+      },
+      {
+        "name": "Cooking Channel",
+        "link": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8"
+      },
+      {
+        "name": "Food Network",
+        "link": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8"
       },
       {
         "name": "FailArmy",
         "link": "https://jmp2.uk/sam-ATAJ32000027V.m3u8"
-      },
-      {
-        "name": "Fal",
-        "link": "https://jmp2.uk/sam-ITBD15000010I.m3u8"
       },
       {
         "name": "Fashion TV",
@@ -108,6 +116,52 @@
         "link": "https://jmp2.uk/sam-ATAJ0500431A.m3u8"
       }
     ],
+    "Kids": [
+      {
+        "name": "Kidoodle.TV",
+        "link": "https://jmp2.uk/sam-USAK3508716A.m3u8"
+      },
+      {
+        "name": "Cartoon Network",
+        "link": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
+      },
+      {
+        "name": "Nikky TV",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8"
+      },
+      {
+        "name": "Zoo Moo",
+        "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "DISNEY JR",
+        "link": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
+      },
+      {
+        "name": "DISNEY Channel",
+        "link": "http://fl5.moveonjoy.com/DISNEY/index.m3u8"
+      },
+      {
+        "name": "Disney XD",
+        "link": "http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
+      },
+      {
+        "name": "PBS Kids",
+        "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+      },
+      {
+        "name": "Nik JR",
+        "link": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon",
+        "link": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
+      },
+      {
+        "name": "BBC Kids",
+        "link": "https://jmp2.uk/sam-US800003JM.m3u8"
+      }
+    ],
     "News": [
       {
         "name": "Ada Derana 24",
@@ -128,7 +182,11 @@
         "link": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8"
       },
       {
-        "name": "Fox Sports 501 HD🏏",
+        "name": "Fox Sports HD",
+        "link": "https://jmp2.uk/sam-US2700001QY.m3u8"
+      },
+      {
+        "name": "Fox Sports 501",
         "link": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8"
       },
       {
@@ -148,20 +206,6 @@
         "link": "https://jmp2.uk/sam-ATBA3300007PT.m3u8"
       }
     ],
-    "Kids": [
-      {
-        "name": "Kidoodle.TV",
-        "link": "https://jmp2.uk/sam-USAK3508716A.m3u8"
-      },
-      {
-        "name": "Cartoon Network",
-        "link": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
-      },
-      {
-        "name": "Animal planet",
-        "link": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
-      }
-    ],
     "Movie": [
       {
         "name": "&flix",
@@ -170,6 +214,22 @@
       {
         "name": "ION",
         "link": "https://jmp2.uk/sam-USBD300002TU.m3u8"
+      },
+      {
+        "name": "HBO Comedy",
+        "link": "http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8"
+      },
+      {
+        "name": "HBO Family",
+        "link": "http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8"
+      },
+      {
+        "name": "HBO",
+        "link": "http://fl3.moveonjoy.com/HBO/index.m3u8"
+      },
+      {
+        "name": "HBO Zone",
+        "link": "http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8"
       },
       {
         "name": "Bollywood HD",
@@ -190,24 +250,49 @@
       {
         "name": "Paramount Movie",
         "link": "https://jmp2.uk/sam-USAJ26000054W.m3u8"
-      }
-    ],
-    "Other Channels": [
-      {
-        "name": "BBC America",
-        "link": "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8"
       },
       {
-        "name": "Evolution Earth",
-        "link": "https://jmp2.uk/sam-CA900003IF.m3u8"
+        "name": "AMC",
+        "link": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
+      },
+      {
+        "name": "FXM (FX Movie)",
+        "link": "http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8"
+      },
+      {
+        "name": "Cinemax",
+        "link": "http://fl3.moveonjoy.com/CINEMAX/index.m3u8"
+      },
+      {
+        "name": "Starz",
+        "link": "http://fl3.moveonjoy.com/STARZ/index.m3u8"
+      },
+      {
+        "name": "Showtime",
+        "link": "http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8"
+      },
+      {
+        "name": "MovieSphere",
+        "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 "
       },
       {
         "name": "Fabella",
         "link": "https://jmp2.uk/sam-DEBA15000130L.m3u8"
+      },
+      {
+        "name": "OuterMax",
+        "link": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
+      }
+    ],
+    "Other Channels": [
+      {
+        "name": "BBC Earth US",
+        "link": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
+      },
+      {
+        "name": "Evolution Earth",
+        "link": "https://jmp2.uk/sam-CA900003IF.m3u8"
       }
     ]
-  }{
-        "name": "test 1",
-        "link": "https://watch.livecricketsl.xyz/live/dtv.php?id=ZUhnFDo/C1w="
-      }
+  }
 ]
