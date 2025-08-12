@@ -3,6 +3,7 @@
     "SL Channels": [
       {
         "name": "Rupavahini",
+"image": "https://example.com/logo.png",
         "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8"
       },
       {
