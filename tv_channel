@@ -2,16 +2,15 @@
   {
     "SL Channels": [
       {
-"id": "1",
+
         "name": "Rupavahini",
-"logo": "https://e7.pngegg.com/pngimages/234/761/png-clipart-hiru-tv-television-channel-live-television-tv-derana-others-miscellaneous-television-thumbnail.png",
-        "url": "https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8"
+"image": "https://e7.pngegg.com/pngimages/234/761/png-clipart-hiru-tv-television-channel-live-television-tv-derana-others-miscellaneous-television-thumbnail.png",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8"
       },
       {
-"id": "2",
         "name": "ITN",
-        "url": "https://edge2-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8"
-      },
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8"
+      "image": "https://e7.pngegg.com/pngimages/234/761/png-clipart-hiru-tv-television-channel-live-television-tv-derana-others-miscellaneous-television-thumbnail.png"},
       {
         "name": "TV Derana",
         "link": "https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/playlist.m3u8"
