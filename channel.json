@@ -1,0 +1,368 @@
+[
+  {
+    "SL Channels": [
+      {
+        "name": "Rupavahini",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "ITN",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png"
+      },
+      {
+        "name": "TV Derana",
+        "link": "https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png"
+      },
+      {
+        "name": "Sirasa TV",
+        "link": "http://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png"
+      },
+      {
+        "name": "Swarnavahini",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png"
+      },
+      {
+        "name": "Siyatha TV",
+        "link": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png"
+      },
+      {
+        "name": "Hiru TV",
+        "link": "https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png"
+      },
+      {
+        "name": "TV1",
+        "link": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/010.png"
+      },
+      {
+        "name": "Supreme TV",
+        "link": "https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/supreme_01.jpg"
+      },
+      {
+        "name": "Charana TV",
+        "link": "https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Vasantham TV",
+        "link": "https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/005.png"
+      },
+      {
+        "name": "Nethra TV",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/nethra.jpg"
+      },
+      {
+        "name": "Channel Eye",
+        "link": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Shakthi TV",
+        "link": "https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png"
+      },
+      {
+        "name": "Jaya TV",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Music Plus TV",
+        "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Cooking Channel",
+        "link": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Food Network",
+        "link": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "FailArmy",
+        "link": "https://jmp2.uk/sam-ATAJ32000027V.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Fashion TV",
+        "link": "https://jmp2.uk/sam-ATBA10000075C.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Highway Thru Hell",
+        "link": "https://jmp2.uk/sam-GB500001HY.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Ideas en 5 Minutos",
+        "link": "https://jmp2.uk/sam-ESBC3500002PW.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "InWonder",
+        "link": "https://jmp2.uk/sam-CABA800002RW.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Haunt TV",
+        "link": "https://jmp2.uk/sam-CABA800009T5.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Italian Fishing TV",
+        "link": "https://jmp2.uk/sam-IT600001L6.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Just Cooking",
+        "link": "https://jmp2.uk/sam-ATAJ0500443A.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Just For Laughs",
+        "link": "https://jmp2.uk/sam-ESBC2700008SK.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "just.fishing",
+        "link": "https://jmp2.uk/sam-ATAJ0500431A.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Kidoodle.TV",
+        "link": "https://jmp2.uk/sam-USAK3508716A.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Cartoon Network",
+        "link": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Nikky TV",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Zoo Moo",
+        "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "DISNEY JR",
+        "link": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "DISNEY Channel",
+        "link": "http://fl5.moveonjoy.com/DISNEY/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Disney XD",
+        "link": "http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "PBS Kids",
+        "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Nik JR",
+        "link": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Nickelodeon",
+        "link": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "BBC Kids",
+        "link": "https://jmp2.uk/sam-US800003JM.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      }
+    ],
+    "News": [
+      {
+        "name": "Ada Derana 24",
+        "link": "https://edge3-moblive.yuppcdn.net/transsd/smil:addetv13.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png"
+      }
+    ],
+    "Sports": [
+      {
+        "name": "Star Sports1🏏",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "TSports HD🏏",
+        "link": "http://103.15.140.138/tsports/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Sky Sports 1🏏",
+        "link": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Fox Sports HD",
+        "link": "https://jmp2.uk/sam-US2700001QY.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Fox Sports 501",
+        "link": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Ten Cricket🏏",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Redbull TV",
+        "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "MotorRacing",
+        "link": "https://jmp2.uk/sam-GBBA1500006H6.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "FIFA+",
+        "link": "https://jmp2.uk/sam-ATBA3300007PT.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      }
+    ],
+    "Movie": [
+      {
+        "name": "&flix",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "ION",
+        "link": "https://jmp2.uk/sam-USBD300002TU.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "HBO Comedy",
+        "link": "http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "HBO Family",
+        "link": "http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "HBO",
+        "link": "http://fl3.moveonjoy.com/HBO/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "HBO Zone",
+        "link": "http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Bollywood HD",
+        "link": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Moviedome",
+        "link": "https://jmp2.uk/sam-CHBA330002991.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "MovieSphere",
+        "link": "https://jmp2.uk/sam-GBBA33000557H.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "NEW KMOVIES",
+        "link": "https://jmp2.uk/sam-USAJ30000122O.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Paramount Movie",
+        "link": "https://jmp2.uk/sam-USAJ26000054W.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "AMC",
+        "link": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "FXM (FX Movie)",
+        "link": "http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Cinemax",
+        "link": "http://fl3.moveonjoy.com/CINEMAX/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Starz",
+        "link": "http://fl3.moveonjoy.com/STARZ/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Showtime",
+        "link": "http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "MovieSphere",
+        "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Fabella",
+        "link": "https://jmp2.uk/sam-DEBA15000130L.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "OuterMax",
+        "link": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      }
+    ],
+    "Other Channels": [
+      {
+        "name": "BBC Earth US",
+        "link": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "Evolution Earth",
+        "link": "https://jmp2.uk/sam-CA900003IF.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      }
+    ]
+  }
+]
