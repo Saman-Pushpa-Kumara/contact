@@ -1,31 +1,22 @@
 {
-  "dialog_enable": true,
-  "online_enable": true,
-  "title": "Premium Access",
-  "descriptions": [
-    "Welcome to Premium Version",
-    "Your device is protected",
-    "Please login to continue"
-  ],
-  "button_login": "Login",
-  "button_admin": "Admin",
-  "button_copy": "Copy ID",
-  "admin_url": "https://t.me/sakib01994",
-  "device_section": [
+  "showDialog": true,
+  "title": "🔐 VIP Login Required",
+  "description": "Please enter your username and password to continue.",
+  "button": "LOGIN NOW",
+  "toast": "✅ Login successful!",
+  "renewUrl": "https://t.me/publicgroup5s",
+  "devices": [
     {
-      "device_id": "d46ecbf8c336511d",
-      "password": "7890",
-      "expire_date": "2025-8-12"
+      "device_id": "abcd1234efgh5678", 
+      "username": "Sajib",
+      "password": "1234",
+      "expire_date": "2025-12-31"
     },
     {
-      "device_id": "efgh5678",
-      "password": "54321",
-      "expire_date": "2025-11-30"
-    },
-    {
-      "device_id": "xyz9876",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
+      "device_id": "wxyz9876ijkl5432",
+      "username": "Rakib",
+      "password": "5678",
+      "expire_date": "2025-11-15"
     }
   ]
-}
+} 
