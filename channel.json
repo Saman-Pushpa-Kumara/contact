@@ -1,17 +1,11 @@
 {
-  "enabled": true,
-  "title": "Subscription Required",
-  "desc1": "1. Premium features will be unlocked.",
-  "desc2": "2. Early access to new updates.",
-  "desc3": "3. Priority customer support.",
-  "cancel_text": "Cancel",
-  "subscribe_text": "Subscribe",
-  "subscribe_url": "https://youtube.com/@sb_sakib88888?si=ICgvs6Jish7JNMLU",
-  "bg_color": "#FFFFFF",
-  "title_color": "#000000",
-  "desc_color": "#333333",
-  "button1_color": "#888888",
-  "button2_color": "#4CAF50",
-  "show_cancel_button": false,
-  "show_subscribe_button": true
+  "showDialog": true,
+  "darkMode": false,
+  "title": "🚀 New Update Available!",
+  "description": "Get the latest features, improvements, and bug fixes for a smoother experience.",
+  "downloadButton": "Download Now",
+  "cancelButton": "Maybe Later",
+  "downloadUrl": "https://t.me/publicgroup5s ",
+  "showDownloadButton": true,
+  "showCancelButton": true
 }
