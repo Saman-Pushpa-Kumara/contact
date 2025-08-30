@@ -1,32 +1,18 @@
-        
-{
+here{
   "dialog_enable": true,
   "online_enable": true,
-  "title": "Premium Access",
-  "descriptions": [
-    "Welcome to Premium Version",
-    "Your device is protected",
-    "Please login to continue"
-  ],
-  "button_login": "Login",
-  "button_admin": "Admin",
-  "button_copy": "Copy ID",
-  "admin_url": "https://t.me/94757238914",
-  "device_section": [
-    {
-      "device_id": "d46ecbf8c336511d",
-      "password": "12",
-      "expire_date": "2025-08-26"
-    },
-    {
-      "device_id": "efgh5678",
-      "password": "54321",
-      "expire_date": "2025-11-30"
-    },
-    {
-      "device_id": "xyz9876",
-      "password": "abcde",
-      "expire_date": "2025-10-15"
-    }
-  ]
+  
+  "update_title": "New Update Available!",
+  
+  "desc1": "✨ Exciting new features added",
+  "desc2": "🐞 Important bug fixes included",
+  "desc3": "🚀 Performance improvements for smoother experience",
+
+  "cancel_button_visible": false,
+  "download_button_visible": true,
+
+  "cancel_button_text": "Later",
+  "download_button_text": "Update Now",
+
+  "download_url": "https://t.me/sakib01994"
 }
