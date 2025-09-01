@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "darkMode": false,
+  "darkMode": true,
   "title": "🚀 New Update Available!",
   "description": "Get the latest features, improvements, and bug fixes for a smoother experience.",
   "downloadButton": "Download Now",
