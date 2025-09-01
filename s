@@ -1,9 +1,13 @@
-{
-  "showDialog": false,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "✨ UPDATE AVAILABLE ✨",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://play.google.com/store/apps/details?id=com.yourapp.packagename"
+         {
+  "enable": true,
+  "title": "Login Access",
+  "d1": "Welcome!",
+  "d2": "Please verify to proceed.",
+  "d3": "Secure Access Only",
+  "password": "1234",
+  "highlight": "🔥 Limited Time Access 🔥",
+  "btn_login": "Login",
+  "btn_personal": "Personal",
+  "edit_hint": "Enter password",
+  "personal_link": "https://t.me/sakib01994"
 }
