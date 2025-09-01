@@ -12,6 +12,6 @@
   "desc_color": "#333333",
   "button1_color": "#888888",
   "button2_color": "#4CAF50",
-  "show_cancel_button": false,
+  "show_cancel_button": true,
   "show_subscribe_button": true
 }
