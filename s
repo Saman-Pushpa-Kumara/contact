@@ -1,7 +1,7 @@
 {
   "ModsLabs_DeviceAuth": [
     {
-      "id": "11863883d00",
+      "id": "d46ecbf8c336511d",
       "name": "Admin Device"
     },
     {
