@@ -1,11 +1,16 @@
 {
-  "showDialog": true,
-  "darkMode": true,
-  "title": "🚀 New Update Available!",
-  "description": "Get the latest features, improvements, and bug fixes for a smoother experience.",
-  "downloadButton": "Download Now",
-  "cancelButton": "Later",
-  "downloadUrl": "https://t.me/publicgroup5s ",
-  "showDownloadButton": true,
-  "showCancelButton": true
+  "ModsLabs_DeviceAuth": [
+    {
+      "id": "11863883d00",
+      "name": "Admin Device"
+    },
+    {
+      "id": "ABCDEF123456",
+      "name": "Test Phone"
+    },
+    {
+      "id": "your-device-id",
+      "name": "Your Device Name"
+    }
+  ]
 }
