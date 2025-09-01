@@ -1,13 +1,18 @@
-         {
-  "enable": true,
-  "title": "Login Access",
-  "d1": "Welcome!",
-  "d2": "Please verify to proceed.",
-  "d3": "Secure Access Only",
-  "password": "1234",
-  "highlight": "🔥 Limited Time Access 🔥",
-  "btn_login": "Login",
-  "btn_personal": "Personal",
-  "edit_hint": "Enter password",
-  "personal_link": "https://t.me/sakib01994"
+{
+  "dialog_enable": true,
+  "online_enable": true,
+  
+  "update_title": "New Update Available!",
+  
+  "desc1": "✨ Exciting new features added",
+  "desc2": "🐞 Important bug fixes included",
+  "desc3": "🚀 Performance improvements for smoother experience",
+
+  "cancel_button_visible": false,
+  "download_button_visible": true,
+
+  "cancel_button_text": "Later",
+  "download_button_text": "Update Now",
+
+  "download_url": "https://t.me/sakib01994"
 }
