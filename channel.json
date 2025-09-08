@@ -1,17 +1,14 @@
-         {
-  "enabled": true,
-  "title": "Subscription Required",
-  "desc1": "🔴 Premium features will be unlocked.",
-  "desc2": "🟢 Early access to new updates.",
-  "desc3": "🔵 Priority customer support.",
-  "cancel_text": "Cancel",
-  "subscribe_text": "Follow me",
-  "subscribe_url": "https://www.fb.com/spk2200",
-  "bg_color": "#FFFFFF",
-  "title_color": "#000000",
-  "desc_color": "#333333",
-  "button1_color": "#888888",
-  "button2_color": "#4CAF50",
-  "show_cancel_button": true,
-  "show_subscribe_button": true
-}
+[
+  {
+    "id": "d46ecbf8c336511d",
+    "key": "22",
+    "expiresAt": "2025-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
+]
