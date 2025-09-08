@@ -2,7 +2,7 @@
   "dialogConfig": {
     "enabled": true,
     "version": "1.0",
-    "mandatory": false,
+    "mandatory": true,
     "update_url": "https://t.me/androidmod_ar",
     "title": "Update Availablr!",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
