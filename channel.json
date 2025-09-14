@@ -1,14 +1,10 @@
-[
-  {
-    "id": "d46ecbf8c336511d",
-    "key": "1",
-    "expiresAt": "2025-07-30",
-    "allowOffline": true
-  },
-  {
-    "id": "ali456",
-    "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
-  }
-]
+{
+  "ModsLabs_update": [
+    {
+      "version": "1.2.0",
+      "title": "New Update Available!",
+      "description": "• Bug fixes\n• Performance improvements\n• New features added",
+      "download_link": "https://t.me/ModsLabs"
+    }
+  ]
+}
