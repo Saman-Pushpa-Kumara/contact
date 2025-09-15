@@ -1,5 +1,8 @@
 {
-  "version": "1.2.0",
-  "changelog": "🚀 New UI\n🐛 Bug fixes\n⚡ Performance improved",
-  "downloadUrl": "https://www.fb.com"
+    "showDialog": true,
+    "title": "New Update Available!",
+    "message": "Version 2.0 is here with new features. Update now to enjoy them!",
+    "updateButtonText": "Install Update",
+    "cancelButtonText": "Later",
+    "updateUrl": "https://your-app-download-link.com"
 }
