@@ -1,10 +1,5 @@
 {
-  "ModsLabs_update": [
-    {
-      "version": "1.2.0",
-      "title": "New Update Available!",
-      "description": "• Bug fixes\n• Performance improvements\n• New features added",
-      "download_link": "https://t.me/ModsLabs"
-    }
-  ]
+  "version": "1.2.0",
+  "changelog": "🚀 New UI\n🐛 Bug fixes\n⚡ Performance improved",
+  "downloadUrl": "https://example.com/app-v1.2.0.apk"
 }
