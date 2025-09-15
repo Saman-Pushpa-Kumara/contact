@@ -1,12 +1,10 @@
 {
     "showDialog": true,
-    "title": "New Update Available!",
-    "message": "🟢Version 20.0 is here with new features. Update now to enjoy them!",
-"message": "🔴Version 20.0 is here with new features. Update now to enjoy them!",
-"message": "🔵Version 20.0 is here with new features. Update now to enjoy them!",
-    "updateButtonText": "Update",
+    "title": "නව යාවත්කාලීනයක් ඇත!",
+    "message": "2.0 වන සංස්කරණය නව විශේෂාංග සමඟ මෙහි ඇත. යාවත්කාලීන කරන්න!",
+    "updateButtonText": "දැන් යාවත්කාලීන කරන්න",
     "showUpdateButton": true,
-    "cancelButtonText": "Exit",
-    "showCancelButton": false,
+    "cancelButtonText": "පසුව",
+    "showCancelButton": true,
     "updateUrl": "https://your-app-download-link.com"
 }
