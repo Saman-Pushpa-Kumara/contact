@@ -2,7 +2,9 @@
     "showDialog": true,
     "title": "New Update Available!",
     "message": "Version 2.0 is here with new features. Update now to enjoy them!",
-    "updateButtonText": "Install Update",
-    "cancelButtonText": "Later",
+    "updateButtonText": "Update",
+    "showUpdateButton": true,
+    "cancelButtonText": "Exit",
+    "showCancelButton": false,
     "updateUrl": "https://your-app-download-link.com"
 }
