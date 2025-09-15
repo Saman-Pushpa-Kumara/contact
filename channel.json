@@ -1,7 +1,9 @@
 {
     "showDialog": true,
     "title": "New Update Available!",
-    "message": "Version 2.0 is here with new features. Update now to enjoy them!",
+    "message": "🟢Version 20.0 is here with new features. Update now to enjoy them!",
+"message": "🔴Version 20.0 is here with new features. Update now to enjoy them!",
+"message": "🔵Version 20.0 is here with new features. Update now to enjoy them!",
     "updateButtonText": "Update",
     "showUpdateButton": true,
     "cancelButtonText": "Exit",
