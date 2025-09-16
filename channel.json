@@ -1,11 +1,7 @@
 {
-    "showDialog": true,
-    "title": "නව යාවත්කාලීනයක් ඇත!",
-    "message": "🔆🔆🔆🔆 2.0 වන සංස්කරණය නව විශේෂාංග සමඟ මෙහි ඇත. යාවත්කාලීන කරන්න!",
-
-    "updateButtonText": "දැන් යාවත්කාලීන කරන්න",
-    "showUpdateButton": true,
-    "cancelButtonText": "පසුව",
-    "showCancelButton": true,
-    "updateUrl": "https://www.mediafire.com/file/bk7bifbkxd4dbnz/%25E0%25B6%25A2%25E0%25B7%2590%25E0%25B6%259A%25E0%25B7%258A_ICON.apk/file"
+  "ModsLabs_Password": [
+    {
+      "password": "1234"
+    }
+  ]
 }
