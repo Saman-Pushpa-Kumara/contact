@@ -1,20 +1,22 @@
 {
-  "com.update": {
-    "latestVersionCode": 14701731,
-    "latestVersion": "14.7.0",
-    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
-    "forceUpdate": true,
-    "style": 3,
-    "dateSystem": true,
-    "expiryDate": "July-11-2025",
-    "dialogTexts": {
-      "title": "NEW UPDATE AVAILABLE",
-      "message": "To continue using the app, you must update to the latest version.",
-      "updateButton": "UPDATE NOW",
-      "laterButton": "LATER"
+  "enabled": true,
+  "show_after": "2025-03-20",
+  "force_update": false,
+  "title": "Update Available",
+  "message": "A new version is ready. Please update for best experience. join my chanel for more @android_modding_tools",
+  "link_text": "See details",
+  "link_url": "https://t.me/android_modding_tools",
+  "buttons": [
+    {
+      "text": "Update Now",
+      "action": "url",
+      "target": "https://t.me/androidmod_ar",
+      "style": "primary"
     },
-    "dialogStyle3": {
-      "imageWidth": 160,
-      "imageHeight": 160
+    {
+      "text": "Later",
+      "action": "dismiss",
+      "style": "secondary"
     }
-  
+  ]
+}
