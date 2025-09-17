@@ -1,12 +1,40 @@
 {
-  "Title": "New Update Available",
-  "versionCode": "11",
-  "versionName": "1.0.5",
-  "updateSize": "36 MB",
-  "releaseDate": "July 15, 2025",
-  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": true,
-  "Direct Function": false
+  "com.update": {
+    "latestVersionCode": 14701731,
+    "latestVersion": "14.7.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  },
+  "com.imaginstudio.imagetools.pixellab": {
+    "latestVersionCode": 10,
+    "latestVersion": "1.2.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app2",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  }
 }
