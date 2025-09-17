@@ -8,5 +8,5 @@
   "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
   "Browser link": "https://www.designlabofficial.site/p/download.html",
   "forceUpdate": true,
-  "Direct Function": true
+  "Direct Function": false
 }
