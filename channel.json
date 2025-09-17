@@ -1,22 +1,10 @@
 {
-  "enabled": true,
-  "show_after": "2025-03-20",
-  "force_update": false,
-  "title": "Update Available",
-  "message": "A new version is ready. Please update for best experience. join my chanel for more @android_modding_tools",
-  "link_text": "See details",
-  "link_url": "https://t.me/android_modding_tools",
-  "buttons": [
-    {
-      "text": "Update Now",
-      "action": "url",
-      "target": "https://t.me/androidmod_ar",
-      "style": "primary"
-    },
-    {
-      "text": "Later",
-      "action": "dismiss",
-      "style": "secondary"
-    }
-  ]
+  "credit": "MR. NoOB",
+  "show_dialog": true,
+  "title": "🚀 Update Available",
+  "subtitle": "✨ New Version Release ✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
+  "link": "https://t.me/EpicModsChannel"
 }
