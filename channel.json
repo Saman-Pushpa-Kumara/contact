@@ -1,10 +1,31 @@
 {
-  "credit": "SPK MODS",
-  "show_dialog": false,
-  "title": "Update Available",
-  "subtitle": "✨ New Version Release ✨",
-  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
-  "btn_update": "Update Now",
-  "btn_exit": "Exit",
-  "link": "https://www.fb.com/saman2200"
+  "dialog_enable": true,
+  "online_enable": true,
+  "title": "Premium Access",
+  "descriptions": [
+    "Welcome to Premium Version",
+    "Your device is protected",
+    "Please login to continue"
+  ],
+  "button_login": "Login",
+  "button_admin": "Admin",
+  "button_copy": "Copy ID",
+  "admin_url": "https://t.me/sakib01994",
+  "device_section": [
+    {
+      "device_id": "3e117dc66181231d",
+      "password": "12345",
+      "expire_date": "2025-12-31"
+    },
+    {
+      "device_id": "efgh5678",
+      "password": "54321",
+      "expire_date": "2025-11-30"
+    },
+    {
+      "device_id": "xyz9876",
+      "password": "abcde",
+      "expire_date": "2025-10-15"
+    }
+  ]
 }
